@@ -1,0 +1,23 @@
+{
+  "name": "workshop-summit-2020",
+  "version": "1.0.0",
+  "description": "Workshop Summit 2020 Slides",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janb87/workshop-summit-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janb87/workshop-summit-2020/issues"
+  },
+  "homepage": "https://github.com/janb87/workshop-summit-2020#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
